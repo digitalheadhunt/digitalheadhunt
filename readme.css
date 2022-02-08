@@ -1,5 +1,5 @@
-img[src*='#imgresize']{
-    width:150px;
+img[alt=dançazuada]{
+    width:75px;
     heigh:150px;
 }
 .resize{
