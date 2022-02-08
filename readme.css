@@ -2,3 +2,7 @@ img[src*='#imgresize']{
     width:150px;
     heigh:150px;
 }
+.resize{
+    width:150px;
+    heigh:150px;
+}
