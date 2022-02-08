@@ -1,7 +1,7 @@
 ### Olá amiguinhos, Thalis sou eu.
 ![digitalheadhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalheadhunt&show_icons=true&theme=cobalt)
 ![Tauren](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Chieftain2.gif/revision/latest/scale-to-width-down/133?cb=20061128013344)
-<img src="https://camo.githubusercontent.com/1a4b05e1a43416214fecd003d2697b26d68e8c94095c9ebfc1deffee4d1b998d/68747470733a2f2f632e74656e6f722e636f6d2f4b374979583861756b4e7341414141642f616e696d652e67696623696d67726573697a65" alt="dançazuada" data-canonical-src="https://c.tenor.com/K7IyX8aukNsAAAAd/anime.gif#imgresize" style="max-width: 25%;">
+![dançazuada](https://c.tenor.com/K7IyX8aukNsAAAAd/anime.gif#imgresize){: .resize}
 ### Minhas Redes Sociais
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/derty.kyotsu) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581995011875&text=HOlar_amiguinhos) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ThalisDev) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalis-fernandes-46a107207/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thalis_sou_eu/)
 
