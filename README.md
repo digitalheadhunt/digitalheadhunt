@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="readme.css">
+
 ### Olá amiguinhos, Thalis sou eu.
 ![digitalheadhunt's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalheadhunt&show_icons=true&theme=cobalt)
 ![Tauren](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Chieftain2.gif/revision/latest/scale-to-width-down/133?cb=20061128013344)
